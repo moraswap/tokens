@@ -1,12 +1,6 @@
 {
   "name": "Moraswap Default Token List",
-  "keywords": [
-    "mora",
-    "neon",
-    "erc20",
-    "dex",
-    "defi"
-  ],
+  "keywords": ["mora", "neon", "erc20", "dex", "defi"],
   "timestamp": "2022-10-06T15:20:13.751+03:00",
   "tokens": [
     {
@@ -415,6 +409,14 @@
       "name": "Mora",
       "symbol": "MORA",
       "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0x2043191e10a2A4b4601F5123D6C94E000b5d915F/logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x432b39e097d9faa2cbaa86f8d36bcf3b8019fe9f",
+      "decimals": 18,
+      "name": "Neo Pepe",
+      "symbol": "NEOP",
+      "logoURI": "https://raw.githubusercontent.com/kavabux/neopepe/main/neopepe-logo.png"
     }
   ],
   "version": {
