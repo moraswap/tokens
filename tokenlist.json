@@ -417,6 +417,38 @@
       "name": "Neo Pepe",
       "symbol": "NEOP",
       "logoURI": "https://raw.githubusercontent.com/kavabux/neopepe/main/neopepe-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
+      "decimals": 9,
+      "name": "Jito Staked SOL",
+      "symbol": "JitoSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jitosol-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x6EFFb385713f22df4846d8156451a5efEC22a4c8",
+      "decimals": 9,
+      "name": "Marinade staked SOL (mSOL)",
+      "symbol": "mSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/marinade-staked-sol-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0xD4B6520f7Fb78E1EE75639F3376c581a71bcdb0E",
+      "decimals": 5,
+      "name": "Bonk",
+      "symbol": "Bonk",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/bonk-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x0575dD4AFD93B7522fEE4e0179f243ecA3856137",
+      "decimals": 6,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
     }
   ],
   "version": {
