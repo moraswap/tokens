@@ -1,0 +1,6 @@
+{
+  "name": "Mora",
+  "symbol": "MORA",
+  "description": "Mora Token (MORA) is the utility token for Mora Ecosystem.",
+  "image": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0x2043191e10a2A4b4601F5123D6C94E000b5d915F/logo.png"
+}
