@@ -449,7 +449,15 @@
       "name": "Pyth Network",
       "symbol": "PYTH",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
-    }
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x381e2ECE95888d21B13e0ab0cF4083a0287faDA4",
+      "decimals": 18,
+      "name": "Soletheon",
+      "symbol": "SOLEN",
+      "logoURI": "https://raw.githubusercontent.com/limeinvesting/img/main/solen.png"
+    },
   ],
   "version": {
     "major": 1,
