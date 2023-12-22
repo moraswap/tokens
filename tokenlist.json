@@ -449,6 +449,14 @@
       "name": "Pyth Network",
       "symbol": "PYTH",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0xf335ae40f387bdc60477f0b306326a233d35227f",
+      "decimals": 18,
+      "name": "Neon Chonk",
+      "symbol": "CHONK",
+      "logoURI": "https://raw.githubusercontent.com/neonchonkdev/neonchonk/main/chonk_logo.png"
     }
   ],
   "version": {
