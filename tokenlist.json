@@ -457,6 +457,14 @@
       "name": "Neon Chonk",
       "symbol": "CHONK",
       "logoURI": "https://raw.githubusercontent.com/neonchonkdev/neonchonk/main/chonk_logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0xAE9C742807DA5Ec06a634319cC018aE5C3C18187",
+      "decimals": 18,
+      "name": "Charlie",
+      "symbol": "CHARLIE",
+      "logoURI": "https://raw.githubusercontent.com/vladt0s/charlie-website/main/charlie-logo.png"
     }
   ],
   "version": {
