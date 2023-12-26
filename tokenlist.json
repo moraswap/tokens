@@ -465,6 +465,14 @@
       "name": "Charlie",
       "symbol": "CHARLIE",
       "logoURI": "https://raw.githubusercontent.com/vladt0s/charlie-website/main/charlie-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x3f16bf1931674af4d28d7ab37ef639a18c4ae99e",
+      "decimals": 18,
+      "name": "NeonDoge",
+      "symbol": "nDOGE",
+      "logoURI": "https://raw.githubusercontent.com/xInitialyze/NeonDoge/main/neondogelogo.png"
     }
   ],
   "version": {
