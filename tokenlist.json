@@ -451,6 +451,21 @@
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
     },
     {
+      "address": "0xF335ae40F387Bdc60477F0B306326A233D35227f",
+      "decimals": 18,
+      "name": "Neon Chonk",
+      "symbol": "CHONK",
+      "logoURI": "https://raw.githubusercontent.com/neonchonkdev/neonchonk/main/chonk_logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0xAE9C742807DA5Ec06a634319cC018aE5C3C18187",
+      "decimals": 18,
+      "name": "Charlie",
+      "symbol": "CHARLIE",
+      "logoURI": "https://raw.githubusercontent.com/vladt0s/charlie-website/main/charlie-logo.png"
+    },
+    {
       "chainId": 245022934,
       "address": "0x381e2ECE95888d21B13e0ab0cF4083a0287faDA4",
       "decimals": 18,
