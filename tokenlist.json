@@ -467,6 +467,14 @@
     },
     {
       "chainId": 245022934,
+      "address": "0x3f16bf1931674Af4D28D7Ab37Ef639A18C4aE99E",
+      "decimals": 18,
+      "name": "NeonDoge",
+      "symbol": "nDOGE",
+      "logoURI": "https://raw.githubusercontent.com/xInitialyze/NeonDoge/main/neondogelogo.png"
+    },
+    {
+      "chainId": 245022934,
       "address": "0x381e2ECE95888d21B13e0ab0cF4083a0287faDA4",
       "decimals": 18,
       "name": "Soletheon",
