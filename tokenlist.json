@@ -451,6 +451,7 @@
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
     },
     {
+      "chainId": 245022934,
       "address": "0xF335ae40F387Bdc60477F0B306326A233D35227f",
       "decimals": 18,
       "name": "Neon Chonk",
