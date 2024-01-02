@@ -451,7 +451,6 @@
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
     },
     {
-      "chainId": 245022934,
       "address": "0xF335ae40F387Bdc60477F0B306326A233D35227f",
       "decimals": 18,
       "name": "Neon Chonk",
@@ -473,7 +472,15 @@
       "name": "NeonDoge",
       "symbol": "nDOGE",
       "logoURI": "https://raw.githubusercontent.com/xInitialyze/NeonDoge/main/neondogelogo.png"
-    }
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x381e2ECE95888d21B13e0ab0cF4083a0287faDA4",
+      "decimals": 18,
+      "name": "Soletheon",
+      "symbol": "SOLEN",
+      "logoURI": "https://raw.githubusercontent.com/limeinvesting/img/main/solen.png"
+    },
   ],
   "version": {
     "major": 1,
