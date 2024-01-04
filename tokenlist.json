@@ -481,6 +481,14 @@
       "name": "Soletheon",
       "symbol": "SOLEN",
       "logoURI": "https://raw.githubusercontent.com/limeinvesting/img/main/solen.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x6DC5F8fa4151D6F70BB9b202cA832D3F5414Cab9",
+      "decimals": 18,
+      "name": "Neoned Inu",
+      "symbol": "NEONED",
+      "logoURI": "https://raw.githubusercontent.com/John0294/0x6dc5f8fa4151d6f70bb9b202ca832d3f5414cab9/main/NeonedInuSniperv2_200x200.png"
     }
   ],
   "version": {
