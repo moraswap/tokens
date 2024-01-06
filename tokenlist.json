@@ -462,9 +462,9 @@
       "chainId": 245022934,
       "address": "0xAE9C742807DA5Ec06a634319cC018aE5C3C18187",
       "decimals": 18,
-      "name": "Charlie",
+      "name": "Charlie (OLD)",
       "symbol": "CHARLIE",
-      "logoURI": "https://raw.githubusercontent.com/vladt0s/charlie-website/main/charlie-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/vladt0s/charlie-website/main/logo-old.png"
     },
     {
       "chainId": 245022934,
@@ -481,6 +481,14 @@
       "name": "Soletheon",
       "symbol": "SOLEN",
       "logoURI": "https://raw.githubusercontent.com/limeinvesting/img/main/solen.png"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x188C87A2E4DA210109A3C805699657E67B0E6CF9",
+      "decimals": 18,
+      "name": "Charlie",
+      "symbol": "CHA",
+      "logoURI": "https://raw.githubusercontent.com/vladt0s/charlie-website/main/charlie-logo.png"
     }
   ],
   "version": {
