@@ -489,7 +489,7 @@
       "name": "Baby NEON",
       "symbol": "bNEON",
       "logoURI": "https://raw.githubusercontent.com/kavabux/baby-neon/main/bneon-logo-200x200.png"
-    },
+    }
   ],
   "version": {
     "major": 1,
