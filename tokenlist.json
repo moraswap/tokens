@@ -489,6 +489,382 @@
       "name": "Baby NEON",
       "symbol": "bNEON",
       "logoURI": "https://raw.githubusercontent.com/kavabux/baby-neon/main/bneon-logo-200x200.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURI": "https://era.zksync.network/token/images/weth_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://era.zksync.network/token/images/tether_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://era.zksync.network/token/images/usdc_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x082faDe8b84B18C441d506e1D3a43a387Cc59D20",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://era.zksync.network/token/images/chainlink_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x770E221EC6F3e8A2E2E168399bb3aa56a63E397d",
+      "decimals": 18,
+      "name": "Polygon Token",
+      "symbol": "MATIC",
+      "logoURI": "https://era.zksync.network/token/images/matic_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://era.zksync.network/token/images/bitcoin_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://era.zksync.network/token/images/dai_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xc17F02Bd7f44A840A39AB41cf89AA831fE3f8a18",
+      "decimals": 18,
+      "name": "Injective Token",
+      "symbol": "INJ",
+      "logoURI": "https://era.zksync.network/token/images/injective_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x0bcCa089F12AE9e78f5060E1d6fbbe1C827c5990",
+      "decimals": 8,
+      "name": "CRO",
+      "symbol": "CRO",
+      "logoURI": "https://era.zksync.network/token/images/cro_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xd5428B08b604727c43ba5a37EeD25a289978d081",
+      "decimals": 18,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "logoURI": "https://era.zksync.network/token/images/Arbitrum_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x44B809fb33C5f6B1737a3283adaeCa4aF27A8Ec9",
+      "decimals": 18,
+      "name": "Lido DAO Token",
+      "symbol": "LDO",
+      "logoURI": "https://era.zksync.network/token/images/lido_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x32Fd44bB869620C0EF993754c8a00Be67C464806",
+      "decimals": 18,
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "logoURI": "https://era.zksync.network/token/images/reth_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5865F29a5A9D5BA8950C13506b014F1377F0b89f",
+      "decimals": 8,
+      "name": "Gala",
+      "symbol": "GALA",
+      "logoURI": "https://era.zksync.network/token/images/gala_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x9E22D758629761FC5708c171d06c2faBB60B5159",
+      "decimals": 18,
+      "name": "Wootrade Network",
+      "symbol": "WOO",
+      "logoURI": "https://era.zksync.network/token/images/woo_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x1CF8553Da5a75C20cdC33532cb19Ef7E3bFFf5BC",
+      "decimals": 18,
+      "name": "Rocket Pool Protocol",
+      "symbol": "RPL",
+      "logoURI": "https://era.zksync.network/token/images/rpl_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508",
+      "decimals": 18,
+      "name": "Maverick Token",
+      "symbol": "MAV",
+      "logoURI": "https://era.zksync.network/token/images/mav_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
+      "decimals": 18,
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "logoURI": "https://era.zksync.network/token/images/lusd_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xdd9f72afED3631a6C85b5369D84875e6c42f1827",
+      "decimals": 18,
+      "name": "Symbiosis",
+      "symbol": "SIS",
+      "logoURI": "https://era.zksync.network/token/images/sis_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
+      "decimals": 18,
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "logoURI": "https://era.zksync.network/token/images/holdstation_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
+      "decimals": 6,
+      "name": "USD+",
+      "symbol": "USD+",
+      "logoURI": "https://era.zksync.network/token/images/usdplus_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "logoURI": "https://era.zksync.network/token/images/wagmi_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+      "decimals": 18,
+      "name": "zkSwap Finance",
+      "symbol": "ZF",
+      "logoURI": "https://era.zksync.network/token/images/zkswapfinance_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
+      "decimals": 18,
+      "name": "Mute.io",
+      "symbol": "MUTE",
+      "logoURI": "https://era.zksync.network/token/images/mute_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x9929bCAC4417A21d7e6FC86F6Dae1Cc7f27A2e41",
+      "decimals": 18,
+      "name": "DEXTF Token",
+      "symbol": "DEXTF",
+      "logoURI": "https://era.zksync.network/token/images/domaniprotocol_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5FC44E95eaa48F9eB84Be17bd3aC66B6A82Af709",
+      "decimals": 18,
+      "name": "Gravita Debt Token",
+      "symbol": "GRAI",
+      "logoURI": "https://era.zksync.network/token/images/gravitadebt_32.png?=v3"
+    },
+    {
+      "chainId": 324,
+      "address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
+      "decimals": 18,
+      "name": "Metavault Trade",
+      "symbol": "MVX",
+      "logoURI": "https://era.zksync.network/token/images/metavault_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044",
+      "decimals": 18,
+      "name": "GOVI",
+      "symbol": "GOVI",
+      "logoURI": "https://era.zksync.network/token/images/govi_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xd03465338226ea0178337F4abb16FdD6df529F57",
+      "decimals": 18,
+      "name": "Interport Token",
+      "symbol": "ITP",
+      "logoURI": "https://era.zksync.network/token/images/interport_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x81E7186947fb59AAAAEb476a47daAc60680cbbaF",
+      "decimals": 18,
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "logoURI": "https://era.zksync.network/token/images/wefi_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x2141d7fe06A1d69c016fC638bA75b6Ef92Fa1435",
+      "decimals": 18,
+      "name": "zkSync id",
+      "symbol": "ZKID",
+      "logoURI": "https://era.zksync.network/token/images/zkid_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x1ab721f531Cab4c87d536bE8B985EAFCE17f0184",
+      "decimals": 18,
+      "name": "ZigZag",
+      "symbol": "ZZ",
+      "logoURI": "https://era.zksync.network/token/images/zigzag_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xCDb7D260c107499C80B4b748e8331c64595972a1",
+      "decimals": 18,
+      "name": "Karat Token",
+      "symbol": "KAT",
+      "logoURI": "https://era.zksync.network/token/images/karat_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xE027D939f7dE6F521675907Cf086F59E4D75B876",
+      "decimals": 18,
+      "name": "SolarCoin on Mainnet",
+      "symbol": "SLR",
+      "logoURI": "https://era.zksync.network/token/images/solarcoin_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xF6D9a093A1C69a152d87e269A7d909E9D76B1815",
+      "decimals": 18,
+      "name": "Super Launcher",
+      "symbol": "LAUNCH",
+      "logoURI": "https://era.zksync.network/token/images/superlauncher_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
+      "decimals": 18,
+      "name": "SPACE",
+      "symbol": "SPACE",
+      "logoURI": "https://era.zksync.network/token/images/space_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0",
+      "decimals": 18,
+      "name": "ZKE",
+      "symbol": "ZKE",
+      "logoURI": "https://era.zksync.network/token/images/zkerafinance_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5f7CBcb391d33988DAD74D6Fd683AadDA1123E4D",
+      "decimals": 18,
+      "name": "ReactorFusion",
+      "symbol": "RF",
+      "logoURI": "https://era.zksync.network/token/images/reactorfushion_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x85D84c774CF8e9fF85342684b0E795Df72A24908",
+      "decimals": 18,
+      "name": "Velocore",
+      "symbol": "VC",
+      "logoURI": "https://era.zksync.network/token/images/velacore_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x160e07e42ADbC1FCE92D505B579Bcd8a3fBEa77d",
+      "decimals": 18,
+      "name": "Dracula dex token",
+      "symbol": "FANG",
+      "logoURI": "https://era.zksync.network/token/images/fang_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x16A9494e257703797D747540f01683952547EE5b",
+      "decimals": 18,
+      "name": "izumi Token",
+      "symbol": "iZi",
+      "logoURI": "https://era.zksync.network/token/images/izumitoken_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x7eCf006f7c45149B457e9116392279CC8A630F14",
+      "decimals": 18,
+      "name": "zkSwap",
+      "symbol": "ZKSP",
+      "logoURI": "https://era.zksync.network/token/images/zksp_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5756A28E2aAe01F600FC2C01358395F5C1f8ad3A",
+      "decimals": 18,
+      "name": "veSync",
+      "symbol": "VS",
+      "logoURI": "https://era.zksync.network/token/images/vesync_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xeCD9f240ED3895c77dB676004328Dd1d246f33C9",
+      "decimals": 18,
+      "name": "ERA",
+      "symbol": "ERA",
+      "logoURI": "https://era.zksync.network/token/images/eranameservice_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x8aAAF6E6167825829Ab29F260f246AFE742FB243",
+      "decimals": 18,
+      "name": "zkCULT",
+      "symbol": "zCULT",
+      "logoURI": "https://era.zksync.network/token/images/zkcult_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x47EF4A5641992A72CFd57b9406c9D9cefEE8e0C4",
+      "decimals": 18,
+      "name": "zkApes token",
+      "symbol": "ZAT",
+      "logoURI": "https://era.zksync.network/token/images/zat_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x06662147240414cc0Dc25E6414100750D346Bc44",
+      "decimals": 18,
+      "name": "Flashdash",
+      "symbol": "FLASHDASH",
+      "logoURI": "https://era.zksync.network/token/images/flashdashtkn_32.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x0C6eaaAb86e8374A91e3F42c726B6FD1aBaCB54c",
+      "decimals": 18,
+      "name": "ZinoPet Token",
+      "symbol": "ZPET",
+      "logoURI": "https://era.zksync.network/token/images/zinopettoken_32.png"
     }
   ],
   "version": {
